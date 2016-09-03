@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public  void click(View view){
         Toast.makeText(this,"被电击了",Toast.LENGTH_SHORT).show();
     }
+    public  void click2(View view){
+        Toast.makeText(this,"被电击了",Toast.LENGTH_SHORT).show();
+    }
 }
